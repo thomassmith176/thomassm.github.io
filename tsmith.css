@@ -15,10 +15,8 @@ header {
 }
 
 article {
-    float: left;
     padding: 20px;
     background-color: #FFFFFF;
-    width: 100%;
     font color: "#00BBFF";
 }
 </style>
