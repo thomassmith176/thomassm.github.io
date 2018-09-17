@@ -7,17 +7,17 @@ body {
 }
 /* Style the header */
 header {
-    background-color: #666;
-    padding: 30px;
+    background-color: #DAF7A6;
+    padding: 20px;
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     color: white;
 }
 
 article {
     float: left;
     padding: 20px;
-    background-color: #f1f1f1;
+    background-color: #FFC300;
     width: 100%;
 }
 </style>
