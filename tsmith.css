@@ -19,4 +19,12 @@ article {
     background-color: #FFFFFF;
     font color: "#00BBFF";
 }
+
+p  {
+    color: #00BBFF;
+    font-family: Verdana;
+    font-size: 160%;
+}
+
+
 </style>
