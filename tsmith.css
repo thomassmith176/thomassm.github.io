@@ -7,7 +7,7 @@ body {
 }
 /* Style the header */
 header {
-    background-color: #DAF7A6;
+    background-color: #00BBFF;
     padding: 20px;
     text-align: center;
     font-size: 30px;
@@ -17,7 +17,8 @@ header {
 article {
     float: left;
     padding: 20px;
-    background-color: #FFC300;
+    background-color: #FFFFFF;
     width: 100%;
+    font color: "#00BBFF";
 }
 </style>
