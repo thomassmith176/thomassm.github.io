@@ -10,6 +10,7 @@ header {
     padding: 5px;
     background-color: #91B1FF;
     height: 120px;
+    vertical-align: middle;
 }
 
 .header img {
@@ -17,6 +18,7 @@ header {
   height: 100px;
   margin-top: 5px;
   margin-left: 20px;
+  margin-right: 20px;
   margin-bottom: 5px;
   border:3px solid #FFFFFF;
   vertical-align: middle;
