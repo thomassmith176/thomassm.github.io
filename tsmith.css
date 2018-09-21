@@ -12,10 +12,11 @@ header {
     text-align: left;
     font-size: 25px;
     color: white;
+    height: 150px;
 }
 
 img.headerimg {
-    border-width: 25px;
+    border-width: 5px;
     border-color: white;
     border-style: solid;
 }
