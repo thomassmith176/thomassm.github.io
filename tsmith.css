@@ -7,7 +7,7 @@ body {
 }
 /* Style the header */
 header {
-    padding-top: 0px;
+    padding: 5px;
     background-color: #91B1FF;
     height: 120px;
 }
@@ -18,12 +18,13 @@ header {
   margin-top: 5px;
   margin-left: 20px;
   margin-bottom: 5px;
-  border:5px solid #FFFFFF;
+  border:3px solid #FFFFFF;
   vertical-align: middle;
 }
 
 .header h1 {
   position: relative;
+  vertical-align: middle;
   color: #FFFFFF;
   font-size: 25px;
 }
@@ -48,15 +49,15 @@ p  {
 }
 
 div.homework-blocks {
-    margin: 5px;
+    margin: 3px;
     width: auto;
     float: left;
 }
 
 div.homework-blocks img {
-    margin: 5px;
+    margin: 3px;
     display: inline;
-    height: 75px;
+    height: 100px;
 }
 
 </style>
