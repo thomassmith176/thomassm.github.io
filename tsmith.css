@@ -26,7 +26,7 @@ header {
 
 .header h1 {
   position: relative;
-  vertical-align: middle;
+  margin-top: 20px;
   color: #FFFFFF;
   font-size: 25px;
 }
