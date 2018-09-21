@@ -48,13 +48,14 @@ p  {
 div.homework-blocks {
     margin: 5px;
     width: auto;
-    height: auto;
+    height: 150px;
     float: left;
 }
 
 div.homework-blocks img {
     margin: 5px;
     display: inline;
+    height: 150px;
 }
 
 </style>
