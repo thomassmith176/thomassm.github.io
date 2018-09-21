@@ -7,20 +7,20 @@ body {
 }
 /* Style the header */
 header {
-    padding: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
     background-color: #91B1FF;
 }
 
 .header img {
   float: left;
-  height: 100px;
-  
+  height: 75px;
+  border-color: #FFFFFF;
+  border: 5px;
 }
 
 .header h1 {
   position: relative;
-  top: 18px;
-  left: 10px;
   font color: #FFFFFF;
 }
 
