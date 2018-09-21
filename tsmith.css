@@ -14,9 +14,9 @@ header {
     color: white;
 }
 
-.border {
+img.headerimg {
     border-width: 25px;
-    border-color: red;
+    border-color: white;
     border-style: solid;
 }
 
