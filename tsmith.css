@@ -16,9 +16,11 @@ header {
 }
 
 img.headerimg {
-    border-width: 5px;
+    height:150px;
+    border-width: 8px;
     border-color: white;
     border-style: solid;
+    float: left;
 }
 
 
