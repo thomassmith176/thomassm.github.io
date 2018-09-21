@@ -7,7 +7,7 @@ body {
 }
 /* Style the header */
 header {
-    padding: 20px;
+    padding: 5px;
     background-color: #91B1FF;
 }
 
@@ -21,7 +21,7 @@ header {
   position: relative;
   top: 18px;
   left: 10px;
-  font color: "#FFFFFF";
+  font color: #FFFFFF;
 }
 
 
