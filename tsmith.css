@@ -32,10 +32,17 @@ p  {
     padding: 5px;
 }
 
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
+div.homework-blocks {
+    margin: 5px;
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+div.homework-blocks img {
+    height: 100px;
+    margin: 5px;
+    display: inline;
 }
 
 </style>
