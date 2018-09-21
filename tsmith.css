@@ -9,12 +9,11 @@ body {
 header {
     padding: 20px;
     background-color: #91B1FF;
-    font color: "#FFFFFF";;
 }
 
 .header img {
   float: left;
-  height: 150px;
+  height: 100px;
   
 }
 
@@ -22,6 +21,7 @@ header {
   position: relative;
   top: 18px;
   left: 10px;
+  font color: "#FFFFFF";
 }
 
 
