@@ -6,17 +6,17 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 /* Style the header */
-header {
-    background-color: #00BBFF;
-    padding: 10px;
-    text-align: left;
-    font-size: 25px;
-    color: white;
-    height: 150px;
-    image-height: 100px;
-    image-border: 8px;
+.header img {
+  float: left;
+  height: 150px;
+  background: #659EC7;
 }
 
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 
 
 article {
