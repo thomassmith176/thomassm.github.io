@@ -7,7 +7,7 @@ body {
 }
 /* Style the header */
 header {
-    padding-top: 10px;
+    padding-top: 5px;
     background-color: #91B1FF;
     height: 120px;
 }
@@ -15,7 +15,9 @@ header {
 .header img {
   float: left;
   height: 100px;
-  margin: 20px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-bottom: 5px;
   border:5px solid #FFFFFF;
   vertical-align: middle;
 }
