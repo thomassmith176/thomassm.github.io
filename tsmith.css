@@ -22,8 +22,8 @@ header {
 
 .header h1 {
   position: relative;
-  font-color: #FFFFFF;
-  font size: 25px;
+  color: #FFFFFF;
+  font-size: 25px;
 }
 
 
@@ -48,14 +48,13 @@ p  {
 div.homework-blocks {
     margin: 5px;
     width: auto;
-    height: 50px;
     float: left;
 }
 
 div.homework-blocks img {
     margin: 5px;
     display: inline;
-    height: 10px;
+    height: 75px;
 }
 
 </style>
