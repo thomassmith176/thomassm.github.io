@@ -10,11 +10,12 @@ header {
     padding-top: 5px;
     padding-left: 10px;
     background-color: #91B1FF;
+    height: 200px;
 }
 
 .header img {
   float: left;
-  height: 75px;
+  height: 100px;
   border-color: #FFFFFF;
   border: 5px;
 }
