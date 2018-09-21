@@ -13,15 +13,10 @@ header {
     font-size: 25px;
     color: white;
     height: 150px;
+    image-height: 100px;
+    image-border: 8px;
 }
 
-img.headerimg {
-    height:150px;
-    border-width: 8px;
-    border-color: white;
-    border-style: solid;
-    float: left;
-}
 
 
 article {
