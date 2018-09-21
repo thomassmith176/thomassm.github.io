@@ -50,6 +50,11 @@ function initialize(){
         mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
       },
       mapTypeId: MY_MAPTYPE_ID
+        
+      //----moved here by Thomas on 21 Sep at 5:05pm, from the last line in this file  
+      google.maps.event.addDomListener(window, 'load', initialize);
+     //----comment end   
+        
     };
     map = new google.maps.Map(document.getElementById('map-canvas'), myOptions);
 
@@ -84,4 +89,3 @@ function initialize(){
     heatmap.setMap(map); 
 }
 
-google.maps.event.addDomListener(window, 'load', initialize);
