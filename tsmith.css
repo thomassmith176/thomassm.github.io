@@ -16,10 +16,10 @@ header {
 .header img {
   float: left;
   height: 100px;
-  margin-top: 5px;
+  margin-top: 0px;
   margin-left: 20px;
   margin-right: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   border:3px solid #FFFFFF;
   vertical-align: middle;
 }
