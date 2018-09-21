@@ -16,8 +16,7 @@ header {
   float: left;
   height: 100px;
   margin: 20px;
-  border-color: #FFFFFF;
-  border: 5px;
+  border:5px solid #FFFFFF;
 }
 
 .header h1 {
