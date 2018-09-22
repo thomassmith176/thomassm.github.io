@@ -6,7 +6,7 @@ var MY_MAPTYPE_ID = 'custom_style';
 var featureOpts = [
     {
       stylers: [
-        { color: '#333333' },
+        { color: '#F7EFED' },
       ]
     },
     {
