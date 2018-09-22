@@ -6,13 +6,13 @@ var MY_MAPTYPE_ID = 'custom_style';
 var featureOpts = [
     {
       stylers: [
-        { color: '#F7EFED' },
+        {  },
       ]
     },
     {
       elementType: 'labels',
       stylers: [
-        { visibility: 'off' }
+        { visibility: 'on' }
       ]
     },
     {
@@ -32,7 +32,7 @@ var featureOpts = [
     {
       featureType: 'water',
       stylers: [
-        { color: '#000000' }
+        { visibility: 'on'  }
       ]
     }
 ];
