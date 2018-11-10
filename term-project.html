@@ -23,6 +23,11 @@
         var currentOverlay;
         var mouseOverListenerHandle = null;//this is to hide radius
         var infoWindow;
+	    
+google.maps.event.addListener(drawingManager, 'polygoncomplete', function (polygon) {
+    var coordinates = (polygon.getPath().getArray());
+    console.log(coordinates);
+});
 
 function initialize() {
   var mapOptions = {
@@ -60,8 +65,6 @@ function initialize() {
 	currentOverlay.addListener('radius_changed', showRadius);
 	currentOverlay.addListener('center_changed', showRadius);
 	showRadius();
-console.log(currentOverlay);
-
   };
 
 
