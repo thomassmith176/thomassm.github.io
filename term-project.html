@@ -24,10 +24,7 @@
         var mouseOverListenerHandle = null;//this is to hide radius
         var infoWindow;
 	    
-google.maps.event.addListener(drawingManager, 'polygoncomplete', function (polygon) {
-    var coordinates = (polygon.getPath().getArray());
-    console.log(coordinates);
-});
+
 
 function initialize() {
   var mapOptions = {
@@ -124,6 +121,11 @@ function initialize() {
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
+
+google.maps.event.addListener(drawingManager, 'polygoncomplete', function (polygon) {
+    var coordinates = (polygon.getPath().getArray());
+    console.log(coordinates);
+});
 
     </script>
   </head>
